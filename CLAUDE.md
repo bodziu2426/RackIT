@@ -10,6 +10,7 @@ The repo holds the Excel training template and will eventually hold the app/back
 ```
 Plan_PPL_Dziennik_NEW.xlsx   — Training plan template (PPL split, do not delete)
 CLAUDE.md                    — This file (project memory, auto-loaded by Claude Code)
+Training/                    — All learning session files and exercises go here
 ```
 
 ## Training Plan Structure (Excel)
