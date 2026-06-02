@@ -66,6 +66,15 @@ Claude acts as programming mentor — teach step by step, explain the why, ask c
 **Build:** Script that reads the Excel workout plan and converts it to clean JSON
 **Scope:** ~2–3 weeks
 
+**Session breakdown:**
+- Session 1: Setup + Python basics — variables, strings, numbers, print()
+- Session 2: Lists and dictionaries — represent one exercise as a dict
+- Session 3: Loops and conditions — for loops, if/elif/else, iterate exercises
+- Session 4: Functions — def, parameters, return values
+- Session 5: JSON + File I/O — json module, save/load exercise data to .json file
+- Session 6: openpyxl — pip, open workbook, iterate sheets/rows, print exercise names
+- Session 7: Full parser (deliverable) — parse_plan.py reads all 3 sheets → workout_plan.json
+
 ### Phase 2 — Backend API with FastAPI
 **Learn:** What an API is, HTTP methods (GET/POST), endpoints, request/response, Pydantic validation
 **Build:** Running Python server — `GET /workout/push`, `POST /session`, testable in browser
