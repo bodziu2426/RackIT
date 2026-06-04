@@ -10,7 +10,7 @@
 ## Sesje
 
 ### Sesja 1 — Setup + Python basics
-**Status:** 🔲 Nie rozpoczęta  
+**Status:** ✅ Ukończona  
 **Uczysz się:** zmienne, typy danych (string, int, float), print(), komentarze  
 **Ćwiczenie:** napisz skrypt, który przechowuje dane jednego ćwiczenia (nazwa, serie, zakres powtórzeń) i wypisuje je na ekran  
 **Plik roboczy:** `sesja_1.py`
