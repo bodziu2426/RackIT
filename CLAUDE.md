@@ -50,6 +50,15 @@ Training/                    — All learning session files and exercises go her
 
 Each sheet also contains a **warmup section** below the exercise table with phases, durations, and cues.
 
+## Athlete Profile
+
+- **Waga:** 87 kg
+- **Wzrost:** 178 cm
+- **Staż:** kilka lat z przerwami
+- **Cel:** siła + hipertrofia
+- **Częstotliwość:** 3x tydzień (PPL raz w tygodniu)
+- **Uwaga:** przy ćwiczeniach z masą ciała (podciąganie, dipy) uwzględniaj wagę 87 kg — to znacząco wpływa na ocenę wyników
+
 ## Claude's Dual Role
 
 Claude operates in two modes within this project:
@@ -127,7 +136,14 @@ Claude acts as programming mentor — teach step by step, explain the why, ask c
 **Scope:** ~1–2 weeks
 
 ### Current status
-Phase 1 — not started
+Phase 1 — ✅ UKOŃCZONA
+- ✅ Sesja 1: zmienne, typy danych, print()
+- ✅ Sesja 2: listy i słowniki
+- ✅ Sesja 3: pętle i warunki
+- ✅ Sesja 4: funkcje
+- ✅ Sesja 5: JSON + zapis/odczyt plików
+- ✅ Sesja 6: openpyxl — otwieranie Excela, iter_rows(), dostęp do komórek
+- ✅ Sesja 7: pełny parser (deliverable) — parse_plan.py + workout_plan.json
 
 ---
 
