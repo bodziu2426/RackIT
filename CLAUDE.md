@@ -145,6 +145,10 @@ Phase 1 — ✅ UKOŃCZONA
 - ✅ Sesja 6: openpyxl — otwieranie Excela, iter_rows(), dostęp do komórek
 - ✅ Sesja 7: pełny parser (deliverable) — parse_plan.py + workout_plan.json
 
+Phase 2 — 🔄 W TOKU
+- ✅ Sesja 1: FastAPI + uvicorn — pierwszy serwer, 3 endpointy GET (/workout/push, /workout/pull, /workout/legs), Swagger UI, wczytywanie JSON przy starcie, dekoratory
+- 🔄 Sesja 2: POST /session — modele Pydantic (Series, Sesion) gotowe, endpoint POST /session szkielet działa (przyjmuje i zwraca sesję), zatrzymano przed testowaniem w Swagger i dodaniem logiki progresji
+
 ---
 
 *This file is the single source of truth for project context. Update it after every meaningful decision or session so it stays useful across machines and conversations.*
