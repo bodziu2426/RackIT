@@ -55,7 +55,7 @@ Each sheet also contains a **warmup section** below the exercise table with phas
 - **Waga:** 87 kg
 - **Wzrost:** 178 cm
 - **Staż:** kilka lat z przerwami
-- **Cel:** siła + hipertrofia
+- **Cel:** sprawność + zdrowie długoterminowe — mniej kontuzji, lepszy performance w squashu i tenisie stołowym, estetyka jako efekt uboczny
 - **Częstotliwość:** 3x tydzień (PPL raz w tygodniu)
 - **Uwaga:** przy ćwiczeniach z masą ciała (podciąganie, dipy) uwzględniaj wagę 87 kg — to znacząco wpływa na ocenę wyników
 
@@ -74,11 +74,39 @@ Analyses workout results from Excel files shared by the user and suggests plan o
 
 **Workflow:** User shares Excel file with recent workout → Claude reads and analyses results → proposes specific changes to exercises, weights, rep ranges, or structure.
 
+## Training Principles (evidence-based, agreed 17.06.2026)
+
+**Progresja piramidy — cała piramida rośnie razem:**
+Przy każdej progresji (+2.5 kg) wszystkie serie w piramidzie rosną o +2.5 kg, nie tylko ostatnia. Uzasadnienie: objętość całkowita (ciężar × serie × powt.) jest głównym czynnikiem hipertrofii — jeśli tylko S4 rośnie, S1–S3 nie generują bodźca adaptacyjnego.
+
+**Przyrost dla izolacji — +1 kg zamiast +2.5 kg:**
+Małe grupy mięśniowe (naramienne, biceps) — skok +2.5 kg to za dużo. Stosuj +1 kg dla odwodzenia, uginań i podobnych ćwiczeń izolacyjnych.
+
+**Zakres powtórzeń OHP — zmieniony na 6–8 (był 6–10):**
+Szerszy zakres utrudnia ocenę progresji. 6–8 daje czytelny sygnał kiedy zwiększyć ciężar.
+
+**Uginanie hantlami — S2 = S3:**
+Skok z S2 do S3 (+2.5 kg na hantel) był za duży — biceps tego nie wytrzymuje. S2 i S3 powinny być na tym samym ciężarze aż do stabilizacji zakresu.
+
+**Dipy — kolejne cele:**
+BW × 8 osiągnięte. Następny cel: BW × 12 na S1, potem obciążenie na pasie.
+
+**Podciąganie — kolejne cele:**
+Cel: BW × 8 stabilnie na S1 przez 2 sesje → wtedy pas z obciążeniem.
+
+**Plan NOGI — przeprojektowany (17.06.2026), priorytet: funkcjonalność + squash/tenis stołowy:**
+Cel skrócenia sesji — usunięto leg curl i cable abduction. Zostały najważniejsze dla zdrowia i sportu:
+1. Przysiad ze sztangą — 3×5-8 (NIE do upadku, bezpieczeństwo kręgosłupa)
+2. Bulgarian Split Squat — 3×8-10 (jednostronna siła, baza do zmian kierunku)
+3. Hip Thrust ze sztangą — 3×10-12 (moc pośladków, przyspieszenie)
+4. Copenhagen Plank — 2×10-15s (profilaktyka pachwiny, kluczowe dla squasha)
+Rozgrzewka: Hip CARs (5 min) — mobilność biodra dla squasha.
+
 ## Key Decisions / Notes
 
 - Excel file is a reference and migration source — NOT the target solution
 - Deadlift and Squat are NEVER taken to full failure (spine safety)
-- Progression increment: 2.5 kg
+- Progression increment: 2.5 kg (compounds) / 1 kg (isolation)
 - Target user flow: open app → log sets/weight/RIR → app saves, calculates progression, shows history
 
 ## Tech Stack (Decided)
