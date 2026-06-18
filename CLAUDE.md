@@ -94,13 +94,22 @@ BW × 8 osiągnięte. Następny cel: BW × 12 na S1, potem obciążenie na pasie
 **Podciąganie — kolejne cele:**
 Cel: BW × 8 stabilnie na S1 przez 2 sesje → wtedy pas z obciążeniem.
 
-**Plan NOGI — przeprojektowany (17.06.2026), priorytet: funkcjonalność + squash/tenis stołowy:**
-Cel skrócenia sesji — usunięto leg curl i cable abduction. Zostały najważniejsze dla zdrowia i sportu:
-1. Przysiad ze sztangą — 3×5-8 (NIE do upadku, bezpieczeństwo kręgosłupa)
-2. Bulgarian Split Squat — 3×8-10 (jednostronna siła, baza do zmian kierunku)
-3. Hip Thrust ze sztangą — 3×10-12 (moc pośladków, przyspieszenie)
-4. Copenhagen Plank — 2×10-15s (profilaktyka pachwiny, kluczowe dla squasha)
+**Plan NOGI — przeprojektowany (18.06.2026), priorytet: funkcjonalność + squash/tenis stołowy:**
+1. Przysiad ze sztangą — 3×5-8, piramida, NIE do upadku (bezpieczeństwo kręgosłupa)
+2. Bulgarian Split Squat — 3×8-10/noga, stały ciężar
+3. Hip Thrust ze sztangą — 3×10-12, piramida
+4. Leg Curl jednonóż — 3×10-12, stały ciężar, +1 kg przy progresji
+5. Odwodzenie na wyciągu jednonóż — 3×12-15, stały ciężar, +1 kg przy progresji
+6. Copenhagen Plank — 2×10-15s, BW
 Rozgrzewka: Hip CARs (5 min) — mobilność biodra dla squasha.
+
+**NOGI — sesja 1 (18.06.2026) + zalecenia na następny trening:**
+Przysiad: 60/70/80 kg × 8/8/8 → S1 za lekki → następna sesja 70/75/80 kg
+BSS: BW × 10/10/11 → S3 > 10 → następna sesja 2×5 kg hantle
+Hip Thrust: 40/50/60 × 12/12/13 → S3 > 12 → następna sesja 50/60/65 kg
+Leg Curl jednonóż: 25 kg × 10/10/12 → zostań z 25 kg
+Odwodzenie jednonóż: 3.75/3.75/6.25 → nieregularne → następna sesja 5 kg × 3 serie
+Copenhagen Plank: 15s/20s → S2 > 15s → następna sesja cel 20s × 2
 
 ## Key Decisions / Notes
 
