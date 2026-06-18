@@ -8,21 +8,11 @@ from datetime import date
 Base.metadata.create_all(bind=engine)
 
 app = FastAPI()
+from fastapi.staticfiles import StaticFiles
+app.mount("/static", StaticFiles(directory="static"), name="static")
 
 with open("../Faza_1/workout_plan.json", "r", encoding="utf-8") as f:
         dane = json.load(f)
-
-@app.get("/workout/push")
-def get_push():
-    return dane["push"]
-
-@app.get("/workout/pull")
-def get_pull():
-    return dane["pull"]
-
-@app.get("/workout/legs")
-def get_legs():
-    return dane["legs"]
 
 
 class Series(BaseModel):
@@ -48,7 +38,6 @@ def add_weight(reps, rir, rep_range_max):
 def post_session(sesja: Sesion):
     wyniki = []
     db = SessionLocal()
-
     for item in sesja.series:
          s = SesjaDB()
          s.entry_date = date.today()
@@ -63,6 +52,18 @@ def post_session(sesja: Sesion):
          db.add(s)
          db.commit()
 
-
+         wyniki.append({
+              "exercise": item.exercise,
+              "series": item.series,
+              "add_weight": add_weight(item.reps, item.rir, item.rep_range_max)
+         })
+        
     db.close()
     return wyniki
+
+@app.get("/history")
+def get_session():
+     db = SessionLocal()
+     wyniki = db.query(SesjaDB).all()
+     db.close()
+     return wyniki

@@ -153,10 +153,11 @@ Claude acts as programming mentor — teach step by step, explain the why, ask c
 **Build:** Phone app — workout screen, exercise cards, logging sets, history view
 **Scope:** ~4–6 weeks
 
-### Phase 5 — Web Frontend
-**Learn:** HTML/CSS/JS basics or a JS framework (TBD based on progress)
-**Build:** Web interface — same features as Flutter app, accessible from any browser
+### Phase 4 — Web Frontend
+**Learn:** HTML/CSS/JS basics (czysty JS bez frameworka), DOM manipulation, fetch API, formularze
+**Build:** Web interface — plan treningowy, formularz logowania serii, historia, decyzja progresji
 **Scope:** TBD
+**Decyzja:** czysty HTML/CSS/JS najpierw, React/Vue po opanowaniu podstaw
 
 ### Phase 6 — AI Workout Assistant
 **Learn:** Claude API integration, prompt engineering, structuring context
@@ -173,9 +174,17 @@ Phase 1 — ✅ UKOŃCZONA
 - ✅ Sesja 6: openpyxl — otwieranie Excela, iter_rows(), dostęp do komórek
 - ✅ Sesja 7: pełny parser (deliverable) — parse_plan.py + workout_plan.json
 
-Phase 2 — 🔄 W TOKU
+Phase 2 — ✅ UKOŃCZONA
 - ✅ Sesja 1: FastAPI + uvicorn — pierwszy serwer, 3 endpointy GET (/workout/push, /workout/pull, /workout/legs), Swagger UI, wczytywanie JSON przy starcie, dekoratory
 - ✅ Sesja 2: POST /session — modele Pydantic (Series + rep_range_max, Sesion), funkcja add_weight(), endpoint zwraca listę słowników z decyzją progresji dla każdej serii, przetestowane w Swagger
+
+Phase 3 — ✅ UKOŃCZONA
+- ✅ Sesja 1: SQLite + SQLAlchemy — database.py (engine, Base, SessionLocal), models.py (SesjaDB z kolumnami), zapis do bazy przy POST /session, dane widoczne w SQLite Viewer
+- ✅ Sesja 2: GET /history — odczyt historii z bazy, db.query(SesjaDB).all(), backend end-to-end działa
+
+Phase 4 — Web Frontend — 🔄 W TOKU
+- ✅ Sesja 1: HTML/CSS/JS intro — index.html szkielet, StaticFiles w FastAPI (app.mount), strona serwowana przez http://127.0.0.1:8000/static/index.html
+- 🔄 Następny krok: utworzyć app.js, podłączyć przez <script src="app.js"> przed </body>, napisać pierwszy fetch() do GET /workout/push
 
 ---
 
