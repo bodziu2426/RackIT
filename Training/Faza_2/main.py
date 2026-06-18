@@ -1,7 +1,11 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
 import json
+from database import engine, SessionLocal
+from models import SesjaDB, Base
+from datetime import date
 
+Base.metadata.create_all(bind=engine)
 
 app = FastAPI()
 
@@ -43,12 +47,22 @@ def add_weight(reps, rir, rep_range_max):
 @app.post("/session")
 def post_session(sesja: Sesion):
     wyniki = []
-    for item in sesja.series:
-         wyniki.append(
-            {
-                "exercise": item.exercise,
-                "series": item.series,
-                "add_weight": add_weight(item.reps, item.rir, item.rep_range_max)
-            })
+    db = SessionLocal()
 
+    for item in sesja.series:
+         s = SesjaDB()
+         s.entry_date = date.today()
+         s.workout_date = sesja.workout_date
+         s.session_type = sesja.workout_type
+         s.exercise = item.exercise
+         s.series = item.series
+         s.weight = item.weight
+         s.reps = item.reps
+         s.rir = item.rir
+
+         db.add(s)
+         db.commit()
+
+
+    db.close()
     return wyniki
