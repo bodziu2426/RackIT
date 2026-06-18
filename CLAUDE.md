@@ -175,7 +175,7 @@ Phase 1 — ✅ UKOŃCZONA
 
 Phase 2 — 🔄 W TOKU
 - ✅ Sesja 1: FastAPI + uvicorn — pierwszy serwer, 3 endpointy GET (/workout/push, /workout/pull, /workout/legs), Swagger UI, wczytywanie JSON przy starcie, dekoratory
-- 🔄 Sesja 2: POST /session — modele Pydantic (Series, Sesion) gotowe, endpoint POST /session szkielet działa (przyjmuje i zwraca sesję), zatrzymano przed testowaniem w Swagger i dodaniem logiki progresji
+- ✅ Sesja 2: POST /session — modele Pydantic (Series + rep_range_max, Sesion), funkcja add_weight(), endpoint zwraca listę słowników z decyzją progresji dla każdej serii, przetestowane w Swagger
 
 ---
 

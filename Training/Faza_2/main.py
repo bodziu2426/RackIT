@@ -27,12 +27,28 @@ class Series(BaseModel):
      weight: float
      reps: int
      rir: int
+     rep_range_max: int
 
 class Sesion(BaseModel):
      workout_date: str
      workout_type: str
      series: list[Series]
 
+def add_weight(reps, rir, rep_range_max):
+    if rir == 0 and reps > rep_range_max:
+        return True
+    else:
+        return False
+    
 @app.post("/session")
 def post_session(sesja: Sesion):
-    return sesja
+    wyniki = []
+    for item in sesja.series:
+         wyniki.append(
+            {
+                "exercise": item.exercise,
+                "series": item.series,
+                "add_weight": add_weight(item.reps, item.rir, item.rep_range_max)
+            })
+
+    return wyniki
