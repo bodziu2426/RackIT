@@ -111,6 +111,27 @@ Leg Curl jednonóż: 25 kg × 10/10/12 → zostań z 25 kg
 Odwodzenie jednonóż: 3.75/3.75/6.25 → nieregularne → następna sesja 5 kg × 3 serie
 Copenhagen Plank: 15s/20s → S2 > 15s → następna sesja cel 20s × 2
 
+**PUSH — sesja (23.06.2026) + ustalenia:**
+
+Wyciskanie sztangi płaska: 62,5/67,5/72,5/77,5 × 8/8/7/7 → S3 i S4 poniżej górnej granicy (6–8) → zostań z ciężarem.
+
+Wyciskanie hantlami skośna +30°: zmiana podejścia (23.06.2026):
+- Tempo: 3s eccentric (hipertrofia) sprawia że liczba powt. jest zmienna — nie używaj jej jako triggera progresji
+- Cel: 3 × 8 powt. z 3s opuszczaniem, stały ciężar 2×25 kg
+- Progresja: gdy ostatnia seria kończy się na RIR 0–1 przez 2 treningi z rzędu → +2,5 kg na hantel
+- 23.06: 10/10/10 przy nieregularnym tempie, ledwo dociągnął ostatnie powt. → zostań z 2×25 kg
+
+OHP sztangą: zmiana piramidy (23.06.2026):
+- Stara piramida: 30/35/40/45 → S1 (30 kg) był de facto rozgrzewką (możliwe 12–14 powt.)
+- Nowa piramida: 35/40/42,5/45 kg — spłaszczona, wszystkie serie to praca
+- Zakres 6–8, S4 bez wybicia z nóg
+- Test na następnej sesji — jeśli S4 się posypie (< 6 powt. lub zła technika), wracamy do starej piramidy
+
+Odwodzenie na wyciągu jednorącz: 3 × 7,5 kg, cel dobić do 15 powt. → wtedy +1 kg.
+
+Dipy: -9,4 / -9,4 / -6,25 / BW — ten sam układ przez 2 sesje.
+Czekamy aż S2 (-9,4 kg) dobije do 12 powt. → wtedy S1 i S2 przechodzą razem na -6,25 kg.
+
 ## Key Decisions / Notes
 
 - Excel file is a reference and migration source — NOT the target solution
