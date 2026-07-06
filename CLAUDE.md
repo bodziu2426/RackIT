@@ -115,11 +115,11 @@ Copenhagen Plank: 15s/20s → S2 > 15s → następna sesja cel 20s × 2
 
 Wyciskanie sztangi płaska: 62,5/67,5/72,5/77,5 × 8/8/7/7 → S3 i S4 poniżej górnej granicy (6–8) → zostań z ciężarem.
 
-Wyciskanie hantlami skośna +30°: zmiana podejścia (23.06.2026):
-- Tempo: 3s eccentric (hipertrofia) sprawia że liczba powt. jest zmienna — nie używaj jej jako triggera progresji
-- Cel: 3 × 8 powt. z 3s opuszczaniem, stały ciężar 2×25 kg
-- Progresja: gdy ostatnia seria kończy się na RIR 0–1 przez 2 treningi z rzędu → +2,5 kg na hantel
-- 23.06: 10/10/10 przy nieregularnym tempie, ledwo dociągnął ostatnie powt. → zostań z 2×25 kg
+Wyciskanie hantlami skośna +30°: zmiana podejścia (23.06.2026, potwierdzone 30.06.2026, reset 07.07.2026):
+- **PRIORYTET: tempo 3–4s eccentric > liczba powt.** Jeśli tempo się rozjeżdża, zejdź z ciężarem — to nie jest regresja.
+- Aktualny ciężar: **3 × 8 powt. z 3–4s opuszczaniem przy 2×22,5 kg** — reset po 30.06 (klatka bardzo zmęczona po treningu przy 2×25)
+- Progresja do 2×25 kg: gdy 3 × 8 powt. idzie czysto z 3–4s tempem i klatka dobrze znosi obciążenie po treningu → wtedy skok do 2×25
+- Progresja powyżej 2×25: gdy ostatnia seria kończy się na RIR 0–1 przez 2 treningi z rzędu (przy utrzymanym tempie) → +2,5 kg na hantel
 
 OHP sztangą: zmiana piramidy (23.06.2026):
 - Stara piramida: 30/35/40/45 → S1 (30 kg) był de facto rozgrzewką (możliwe 12–14 powt.)
@@ -129,14 +129,20 @@ OHP sztangą: zmiana piramidy (23.06.2026):
 
 Odwodzenie na wyciągu jednorącz: 3 × 7,5 kg, cel dobić do 15 powt. → wtedy +1 kg.
 
-Dipy: -9,4 / -9,4 / -6,25 / BW — ten sam układ przez 2 sesje.
-Czekamy aż S2 (-9,4 kg) dobije do 12 powt. → wtedy S1 i S2 przechodzą razem na -6,25 kg.
+Dipy — nowy protokół (06.07.2026): wyrównać wszystkie serie do BW, następnie pas z ciężarem (identycznie jak podciąganie).
+- S4 = BW ✓ (osiągnięte, 8 powt.)
+- S3 = -6,25 → gdy S3 ≥ 12 powt. → S3 na BW
+- S2 = -6,25 → gdy S2 ≥ 12 powt. → S2 na BW
+- S1 = -9,4 → gdy S1 ≥ 12 → S1 na -6,25 → gdy S1 ≥ 12 przy -6,25 → S1 na BW
+- Gdy wszystkie serie = BW i S1 ≥ 12 przez 2 sesje → pas z obciążeniem
 
 ## Key Decisions / Notes
 
 - Excel file is a reference and migration source — NOT the target solution
 - Deadlift and Squat are NEVER taken to full failure (spine safety)
 - Progression increment: 2.5 kg (compounds) / 1 kg (isolation)
+- **Dostępne talerze na siłowni:** 0,5 / 1 / 1,5 / 2,5 kg — BRAK 1,25 kg. Nie można zrobić +2,5 kg symetrycznie. Praktyczny odpowiednik: **+3 kg całkowite (+1,5 kg na stronę)** — to standardowy krok progresji dla tej siłowni zamiast +2,5 kg.
+- **Wiosłowanie sztangą — reset piramidy (07.07.2026):** Piramida wyrównana do okrągłych liczb: **60/65/70/75 kg**. Progresja: **+5 kg całkowite** (+2,5 kg na stronę) gdy trigger → 65/70/75/80 itd.
 - Target user flow: open app → log sets/weight/RIR → app saves, calculates progression, shows history
 
 ## Tech Stack (Decided)
