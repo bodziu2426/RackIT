@@ -111,30 +111,30 @@ Leg Curl jednonóż: 25 kg × 10/10/12 → zostań z 25 kg
 Odwodzenie jednonóż: 3.75/3.75/6.25 → nieregularne → następna sesja 5 kg × 3 serie
 Copenhagen Plank: 15s/20s → S2 > 15s → następna sesja cel 20s × 2
 
-**PUSH — sesja (23.06.2026) + ustalenia:**
+**PUSH — ustalenia i aktualny stan (aktualizacja 07.07.2026):**
 
-Wyciskanie sztangi płaska: 62,5/67,5/72,5/77,5 × 8/8/7/7 → S3 i S4 poniżej górnej granicy (6–8) → zostań z ciężarem.
+Wyciskanie sztangi płaska — aktualny ciężar: 62,5/67,5/72,5/77,5 kg, zakres 6–8:
+- 23.06: S3=7, S4=7 → zostań
+- 07.07: S3=8, S4=8 (S4 z pomocą asekurującego na 8. powt.) → zostań
+- Trigger progresji: S4 = 77,5 × 8 czysto bez pomocy → wtedy +2,5 kg na całą piramidę
 
-Wyciskanie hantlami skośna +30°: zmiana podejścia (23.06.2026, potwierdzone 30.06.2026, reset 07.07.2026):
-- **PRIORYTET: tempo 3–4s eccentric > liczba powt.** Jeśli tempo się rozjeżdża, zejdź z ciężarem — to nie jest regresja.
-- Aktualny ciężar: **3 × 8 powt. z 3–4s opuszczaniem przy 2×22,5 kg** — reset po 30.06 (klatka bardzo zmęczona po treningu przy 2×25)
-- Progresja do 2×25 kg: gdy 3 × 8 powt. idzie czysto z 3–4s tempem i klatka dobrze znosi obciążenie po treningu → wtedy skok do 2×25
-- Progresja powyżej 2×25: gdy ostatnia seria kończy się na RIR 0–1 przez 2 treningi z rzędu (przy utrzymanym tempie) → +2,5 kg na hantel
+Wyciskanie hantlami skośna +30° — aktualny ciężar: 2×22,5 / 2×25 / 2×25 kg:
+- **PRIORYTET: tempo 3–4s eccentric > liczba powt.** Jeśli tempo się rozjeżdża, zejdź z ciężarem.
+- Reset po 30.06 (klatka bardzo zmęczona po treningu przy 2×25). Piramida: S1=22,5 (feeder), S2 i S3=25 (praca).
+- 07.07: 22,5×8 / 22,5×8 / 25×8 → zostań, obserwuj klatkę po treningu
+- Progresja: gdy S3 kończy się na RIR 0–1 przy utrzymanym tempie przez 2 treningi → +2,5 kg na hantel (cała piramida)
 
-OHP sztangą: zmiana piramidy (23.06.2026):
-- Stara piramida: 30/35/40/45 → S1 (30 kg) był de facto rozgrzewką (możliwe 12–14 powt.)
-- Nowa piramida: 35/40/42,5/45 kg — spłaszczona, wszystkie serie to praca
-- Zakres 6–8, S4 bez wybicia z nóg
-- Test na następnej sesji — jeśli S4 się posypie (< 6 powt. lub zła technika), wracamy do starej piramidy
+OHP sztangą — aktualny ciężar: 35/40/42/45 kg, zakres 6–8:
+- Zmiana piramidy (23.06): stara 30/35/40/45 — S1 był rozgrzewką (możliwe 12–14 powt.). Nowa spłaszczona: 35/40/42/45.
+- 07.07: 35×8 / 40×8 / 42×8 / 45×7 — S4 bez wybicia z nóg ✓ — piramida działa
+- Trigger progresji: S4 = 45 × 8 czysto → +2,5 kg na całą piramidę (→ 37,5/42,5/44,5/47,5)
 
-Odwodzenie na wyciągu jednorącz: 3 × 7,5 kg, cel dobić do 15 powt. → wtedy +1 kg.
+Odwodzenie na wyciągu jednorącz — aktualny ciężar: 3 × 7,5 kg:
+- 07.07: 13/13/13 → cel 15 powt., +1 kg przy triggerze (izolacja)
 
-Dipy — nowy protokół (06.07.2026): wyrównać wszystkie serie do BW, następnie pas z ciężarem (identycznie jak podciąganie).
-- S4 = BW ✓ (osiągnięte, 8 powt.)
-- S3 = -6,25 → gdy S3 ≥ 12 powt. → S3 na BW
-- S2 = -6,25 → gdy S2 ≥ 12 powt. → S2 na BW
-- S1 = -9,4 → gdy S1 ≥ 12 → S1 na -6,25 → gdy S1 ≥ 12 przy -6,25 → S1 na BW
-- Gdy wszystkie serie = BW i S1 ≥ 12 przez 2 sesje → pas z obciążeniem
+Dipy — aktualny ciężar: -6,25 / -6,25 / -6,25 / BW (aktualizacja 07.07.2026):
+- S1 i S2 osiągnęły 12 powt. przy -9,4 → obie przesunięte na -6,25
+- Protokół: S4=BW ✓ → S3 gdy ≥12 → BW → S2 gdy ≥12 → BW → S1 gdy ≥12 → BW → gdy wszystkie BW × 12 przez 2 sesje → pas z obciążeniem
 
 ## Key Decisions / Notes
 
