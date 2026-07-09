@@ -98,18 +98,26 @@ Cel: BW × 8 stabilnie na S1 przez 2 sesje → wtedy pas z obciążeniem.
 1. Przysiad ze sztangą — 3×5-8, piramida, NIE do upadku (bezpieczeństwo kręgosłupa)
 2. Bulgarian Split Squat — 3×8-10/noga, stały ciężar
 3. Hip Thrust ze sztangą — 3×10-12, piramida
-4. Leg Curl jednonóż — 3×10-12, stały ciężar, +1 kg przy progresji
+4. Leg Curl jednonóż (maszyna) — 3×10-12, stały ciężar, +2,5 kg przy progresji (minimalny skok maszyny)
 5. Odwodzenie na wyciągu jednonóż — 3×12-15, stały ciężar, +1 kg przy progresji
 6. Copenhagen Plank — 2×10-15s, BW
 Rozgrzewka: Hip CARs (5 min) — mobilność biodra dla squasha.
 
-**NOGI — sesja 1 (18.06.2026) + zalecenia na następny trening:**
-Przysiad: 60/70/80 kg × 8/8/8 → S1 za lekki → następna sesja 70/75/80 kg
-BSS: BW × 10/10/11 → S3 > 10 → następna sesja 2×5 kg hantle
-Hip Thrust: 40/50/60 × 12/12/13 → S3 > 12 → następna sesja 50/60/65 kg
-Leg Curl jednonóż: 25 kg × 10/10/12 → zostań z 25 kg
-Odwodzenie jednonóż: 3.75/3.75/6.25 → nieregularne → następna sesja 5 kg × 3 serie
-Copenhagen Plank: 15s/20s → S2 > 15s → następna sesja cel 20s × 2
+**NOGI — sesja 1 (18.06.2026):**
+Przysiad: 60/70/80 kg × 8/8/8 → S1 za lekki
+BSS: BW × 10/10/11
+Hip Thrust: 40/50/60 × 12/12/13
+Leg Curl jednonóż: 25 kg × 10/10/12
+Odwodzenie jednonóż: 3.75/3.75/6.25 → nieregularne
+Copenhagen Plank: 15s/20s
+
+**NOGI — sesja 2 (09.07.2026) + plan na następny trening:**
+Przysiad: 70/75/80 × 8/8/8, S3 RIR 2 → progresja → następna sesja 75/80/85 kg
+BSS: 2×6 × 10/10/11 → progresja → następna sesja 2×10 kg (zakres 8-10, cel dolny próg)
+Hip Thrust: 50/60/65 × 12/12/13 (2. sesja z tym wynikiem) → progresja → następna sesja 55/65/70 kg
+Leg Curl jednonóż: 25 kg × 10/11/13 → progresja → następna sesja 27,5 kg (+2,5 kg min. skok maszyny)
+Odwodzenie jednonóż: 5/7,5/7,5 × 15/12/13 → S3 < 15 → zostań 7,5 kg × 3 serie
+Copenhagen Plank: 20s/25s → następna sesja cel 25s × 2
 
 **PUSH — ustalenia i aktualny stan (aktualizacja 07.07.2026):**
 
